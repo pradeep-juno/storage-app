@@ -304,6 +304,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.0.0"
+  liquid_progress_indicator:
+    dependency: "direct main"
+    description:
+      name: liquid_progress_indicator
+      sha256: ffd7eca3995e03ce0bd0e1f10ce11da3d8877c51e1270d1e8b9556dbbbbe6689
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.4.0"
+  liquid_progress_indicator_v2:
+    dependency: "direct main"
+    description:
+      name: liquid_progress_indicator_v2
+      sha256: "6bb2c675bab4936864a63ccd503be417e407974e11c62711917a4006bb9288b8"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.5.0"
   matcher:
     dependency: transitive
     description:
@@ -368,6 +384,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.1.2"
+  shimmer_animation:
+    dependency: "direct main"
+    description:
+      name: shimmer_animation
+      sha256: ddfeaf6833cef48e0dd31748f80ddcc14f44bd2cdf768d7449c83bd0c80613be
+      url: "https://pub.dev"
+    source: hosted
+    version: "2.2.1"
   sky_engine:
     dependency: transitive
     description: flutter
